@@ -28,5 +28,5 @@ Phoenix-Movies is built using the following technologies:
 
 # 🍿 Demo 
 
-- Check out our live demo at https://Phoenixmovies.netlify.app/ 
+- Check out our live demo at https://phoenix-movies-seven.vercel.app/
 
